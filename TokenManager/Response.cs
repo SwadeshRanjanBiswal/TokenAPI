@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TokenManager
+namespace TokenManagerHandler
 {
     public class ResponseVM
     {
